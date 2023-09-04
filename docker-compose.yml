@@ -1,0 +1,13 @@
+version: '3.4'
+
+services:
+  inmyfruits:
+    image: ${DOCKER_REGISTRY-}inmyfruits
+    build:
+      context: .
+      dockerfile: InMyFruits\Dockerfile
+    ports:
+    - 82:80
+    volumes:
+    - .:/inmyfruits/
+
