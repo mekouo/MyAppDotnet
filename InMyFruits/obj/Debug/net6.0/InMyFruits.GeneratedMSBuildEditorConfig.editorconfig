@@ -9,77 +9,77 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = InMyFruits
 build_property.RootNamespace = InMyFruits
-build_property.ProjectDir = C:\Users\Mekouo\Desktop\InMyFruits\InMyFruits\
+build_property.ProjectDir = c:\Users\Mekouo\Desktop\InMyFruits\InMyFruits\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Mekouo\Desktop\InMyFruits\InMyFruits
+build_property.MSBuildProjectDirectory = c:\Users\Mekouo\Desktop\InMyFruits\InMyFruits
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Mekouo/Desktop/InMyFruits/InMyFruits/Areas/Fruits/Pages/Create.cshtml]
+[c:/Users/Mekouo/Desktop/InMyFruits/InMyFruits/Areas/Fruits/Pages/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRnJ1aXRzXFBhZ2VzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mekouo/Desktop/InMyFruits/InMyFruits/Areas/Fruits/Pages/Delete.cshtml]
+[c:/Users/Mekouo/Desktop/InMyFruits/InMyFruits/Areas/Fruits/Pages/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRnJ1aXRzXFBhZ2VzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mekouo/Desktop/InMyFruits/InMyFruits/Areas/Fruits/Pages/Details.cshtml]
+[c:/Users/Mekouo/Desktop/InMyFruits/InMyFruits/Areas/Fruits/Pages/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRnJ1aXRzXFBhZ2VzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mekouo/Desktop/InMyFruits/InMyFruits/Areas/Fruits/Pages/Edit.cshtml]
+[c:/Users/Mekouo/Desktop/InMyFruits/InMyFruits/Areas/Fruits/Pages/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRnJ1aXRzXFBhZ2VzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mekouo/Desktop/InMyFruits/InMyFruits/Areas/Fruits/Pages/Index.cshtml]
+[c:/Users/Mekouo/Desktop/InMyFruits/InMyFruits/Areas/Fruits/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRnJ1aXRzXFBhZ2VzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mekouo/Desktop/InMyFruits/InMyFruits/Areas/Fruits/Pages/_ViewImports.cshtml]
+[c:/Users/Mekouo/Desktop/InMyFruits/InMyFruits/Areas/Fruits/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRnJ1aXRzXFBhZ2VzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mekouo/Desktop/InMyFruits/InMyFruits/Areas/Fruits/Pages/_ViewStart.cshtml]
+[c:/Users/Mekouo/Desktop/InMyFruits/InMyFruits/Areas/Fruits/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRnJ1aXRzXFBhZ2VzXF9WaWV3U3RhcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mekouo/Desktop/InMyFruits/InMyFruits/Areas/Identity/Pages/_ViewStart.cshtml]
+[c:/Users/Mekouo/Desktop/InMyFruits/InMyFruits/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mekouo/Desktop/InMyFruits/InMyFruits/Pages/Error.cshtml]
+[c:/Users/Mekouo/Desktop/InMyFruits/InMyFruits/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mekouo/Desktop/InMyFruits/InMyFruits/Pages/Index.cshtml]
+[c:/Users/Mekouo/Desktop/InMyFruits/InMyFruits/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mekouo/Desktop/InMyFruits/InMyFruits/Pages/Privacy.cshtml]
+[c:/Users/Mekouo/Desktop/InMyFruits/InMyFruits/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mekouo/Desktop/InMyFruits/InMyFruits/Pages/Shared/EditorTemplates/Fruit.cshtml]
+[c:/Users/Mekouo/Desktop/InMyFruits/InMyFruits/Pages/Shared/EditorTemplates/Fruit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXEVkaXRvclRlbXBsYXRlc1xGcnVpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mekouo/Desktop/InMyFruits/InMyFruits/Pages/Shared/_LoginPartial.cshtml]
+[c:/Users/Mekouo/Desktop/InMyFruits/InMyFruits/Pages/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mekouo/Desktop/InMyFruits/InMyFruits/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/Mekouo/Desktop/InMyFruits/InMyFruits/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mekouo/Desktop/InMyFruits/InMyFruits/Pages/_ViewImports.cshtml]
+[c:/Users/Mekouo/Desktop/InMyFruits/InMyFruits/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mekouo/Desktop/InMyFruits/InMyFruits/Pages/_ViewStart.cshtml]
+[c:/Users/Mekouo/Desktop/InMyFruits/InMyFruits/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mekouo/Desktop/InMyFruits/InMyFruits/Pages/Shared/_Layout.cshtml]
+[c:/Users/Mekouo/Desktop/InMyFruits/InMyFruits/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-vr8pq9pju1
