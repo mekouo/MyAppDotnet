@@ -3,7 +3,7 @@
   <PropertyGroup Label="Globals">
     <ProjectVersion>2.1</ProjectVersion>
     <DockerTargetOS>Windows</DockerTargetOS>
-    <ProjectGuid>9cd988ed-e588-4330-a51a-99a0e1d4887c</ProjectGuid>
+    <ProjectGuid>a5e9f036-e50e-4a11-a73c-11fdd14dd53f</ProjectGuid>
     <DockerLaunchAction>LaunchBrowser</DockerLaunchAction>
     <DockerServiceUrl>{Scheme}://{ServiceIPAddress}{ServicePort}</DockerServiceUrl>
     <DockerServiceName>inmyfruits</DockerServiceName>

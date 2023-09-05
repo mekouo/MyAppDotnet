@@ -32,6 +32,14 @@
         "Children": {
           "images": {
             "Children": {
+              "0dc9d8cb-7e60-4195-9f91-897f0b22374a.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "fruits/images/0dc9d8cb-7e60-4195-9f91-897f0b22374a.jpg"
+                },
+                "Patterns": null
+              },
               "32078265-fd9b-4b40-a9a7-88c9c185a4b1.jpg": {
                 "Children": null,
                 "Asset": {
@@ -40,11 +48,51 @@
                 },
                 "Patterns": null
               },
+              "7205a754-0de2-4ba8-8b59-417607e45729.png": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "fruits/images/7205a754-0de2-4ba8-8b59-417607e45729.png"
+                },
+                "Patterns": null
+              },
+              "ad2b25da-be70-4471-8ec6-cbd8aed22867.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "fruits/images/ad2b25da-be70-4471-8ec6-cbd8aed22867.jpg"
+                },
+                "Patterns": null
+              },
+              "b88bdf00-bd71-4610-a145-8b135775d79e.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "fruits/images/b88bdf00-bd71-4610-a145-8b135775d79e.jpg"
+                },
+                "Patterns": null
+              },
+              "b93d15cb-98ce-49b6-a613-ea6a4b56e7a7.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "fruits/images/b93d15cb-98ce-49b6-a613-ea6a4b56e7a7.jpg"
+                },
+                "Patterns": null
+              },
               "f1fcf2ea-1ed8-4159-9034-e49d805799bd.jpg": {
                 "Children": null,
                 "Asset": {
                   "ContentRootIndex": 0,
                   "SubPath": "fruits/images/f1fcf2ea-1ed8-4159-9034-e49d805799bd.jpg"
+                },
+                "Patterns": null
+              },
+              "ff8c704d-a27e-414f-8478-ef91cf491c29.jpg": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "fruits/images/ff8c704d-a27e-414f-8478-ef91cf491c29.jpg"
                 },
                 "Patterns": null
               }

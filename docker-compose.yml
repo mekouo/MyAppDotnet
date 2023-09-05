@@ -6,8 +6,3 @@ services:
     build:
       context: .
       dockerfile: InMyFruits\Dockerfile
-    ports:
-    - 82:80
-    volumes:
-    - .:/inmyfruits/
-
