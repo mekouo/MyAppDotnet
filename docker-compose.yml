@@ -1,8 +1,29 @@
-version: '3.4'
-
+version: '3.9'
 services:
-  inmyfruits:
-    image: ${DOCKER_REGISTRY-}inmyfruits
+  webapp:
     build:
-      context: .
-      dockerfile: InMyFruits\Dockerfile
+      context: './' # Path to the directory containing your C# application Dockerfile
+      dockerfile: Dockerfile  # Name of your C# application Dockerfile
+    ports:
+      - "5000:80"  # Map port 80 in the container to port 5000 on the host
+    depends_on:
+      - database  # Ensure the 'database' service starts before 'webapp'
+    environment:
+      - ConnectionStrings__DefaultConnection=Server=database;Database=mydb;User=myuser;Password=mypassword  # Connection string for your database
+
+  database:
+    image: mcr.microsoft.com/mssql/server:2019-latest  # Example: Use the official SQL Server image
+    environment:
+      SA_PASSWORD: mypassword  # Set the SQL Server SA password
+      ACCEPT_EULA: "Y"  # Accept the SQL Server EULA
+    ports:
+      - "1433:1433"  # Map port 1433 in the container to port 1433 on the host
+    volumes:
+      - db-data:/var/opt/mssql  # Persist database data
+
+volumes:
+  db-data:
+
+
+
+    
